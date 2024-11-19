@@ -36,7 +36,7 @@ public class IdelState : State
             sonic.CheckForJump();
             sonic.CheckForMovement();
             sonic.CheckForSpinDash();
-            sonic.CheckForSlowdown();
+            
 
         }
 

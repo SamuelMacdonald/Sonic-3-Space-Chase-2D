@@ -34,7 +34,7 @@ public class SpinDashState : State
             sonic.CheckForIdel();
             sonic.CheckForMovement();
             sonic.CheckForJump();
-            sonic.CheckForSlowdown();
+            
         }
 
         public override void PhysicsUpdate()

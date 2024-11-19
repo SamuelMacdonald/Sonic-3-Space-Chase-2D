@@ -21,8 +21,7 @@ namespace Sonic2D
         public float speedInc;
         public Rigidbody2D rb;
 
-        //slowDown
-        float lastHorizontalInput;
+      
 
         public StateMachine sm;
 
@@ -55,9 +54,9 @@ namespace Sonic2D
         // Update is called once per frame
         public void Update()
         {
-            sm.CurrentState.LogicUpdate();  
+            sm.CurrentState.LogicUpdate();
 
-            //stick.Vertical = Mathf.Clamp(stick.Direction.x, -1, 1);
+           
 
             //output debug info to the canvas
             string s;
@@ -105,26 +104,6 @@ namespace Sonic2D
             {
                 sm.ChangeState(jump);
             }
-        }
-
-
-        
-        public void CheckForSlowdown()
-        {
-            float horizontalInput = stick.Direction.x;
-
-            if(horizontalInput != lastHorizontalInput)
-            {
-                sm.ChangeState(spinDash);
-                lastHorizontalInput = horizontalInput;
-            }
-
-            //Check if horizontal input = last horizontal input
-
-            // If not, then change state to slowdown state. This is because a change in input means a change in direction
-
-            // Save last horizontal input to new input
-
         }
 
         public override int GetHashCode()

@@ -36,9 +36,9 @@ namespace Sonic2D
             sonic.CheckForIdel();
             sonic.CheckForJump();
             sonic.CheckForSpinDash();
-            sonic.CheckForSlowdown();
+            
 
-            Debug.Log(sonic.stick.Direction.x);
+           // Debug.Log(sonic.stick.Direction.x);
 
         }
 
@@ -56,7 +56,7 @@ namespace Sonic2D
                 }
                 else
                 {
-                   sonic.acc += -1000f * Time.fixedDeltaTime;
+                   sonic.acc = 1000f;
                 }
             }
             

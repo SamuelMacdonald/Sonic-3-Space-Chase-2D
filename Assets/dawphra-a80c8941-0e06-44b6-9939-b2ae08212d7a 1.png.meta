@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 9ea72ee811ba81041ab404a9355e3e5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6458652491659242888
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_0
+  - first:
+      213: 6826934736117438137
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_1
+  - first:
+      213: -8370697902220301261
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_2
+  - first:
+      213: 4143134108444821334
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_3
+  - first:
+      213: 8451076261462825809
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_4
+  - first:
+      213: 6368444495289146233
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_5
+  - first:
+      213: 2140910647697917369
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_6
+  - first:
+      213: 6890123673993701160
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_7
+  - first:
+      213: 437237076672945372
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_8
+  - first:
+      213: 1174319033755242756
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_9
+  - first:
+      213: -4445553930070771870
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_10
+  - first:
+      213: 1333563426111821633
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_11
+  - first:
+      213: -3716609707344546405
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_12
+  - first:
+      213: 747617769361363120
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_13
+  - first:
+      213: 7936752522207802972
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_14
+  - first:
+      213: -118336807948888564
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_15
+  - first:
+      213: 8639000562763400031
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_16
+  - first:
+      213: 3497391423506355679
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_17
+  - first:
+      213: 5999492181761515682
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_18
+  - first:
+      213: -6909341858170758791
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_19
+  - first:
+      213: -6664511285232723226
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_20
+  - first:
+      213: 1434653976815410299
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_21
+  - first:
+      213: -1048230621945513535
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_22
+  - first:
+      213: -2199179429520259266
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_23
+  - first:
+      213: -6107090433699987472
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_24
+  - first:
+      213: -4264151375203594561
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_25
+  - first:
+      213: 3437325875043533559
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_26
+  - first:
+      213: 3573035146762849246
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_27
+  - first:
+      213: 7448452996932666533
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_28
+  - first:
+      213: 8435308144755401898
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_29
+  - first:
+      213: 7007252122419043794
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_30
+  - first:
+      213: 7293425066117148124
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_31
+  - first:
+      213: 2849976169553647883
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_32
+  - first:
+      213: -1206924841710405035
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_33
+  - first:
+      213: -6113252792960150684
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_34
+  - first:
+      213: 2416988857149872217
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_35
+  - first:
+      213: -1610735782395703777
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_36
+  - first:
+      213: -5141206552285489067
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_37
+  - first:
+      213: -1395457113788578591
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_38
+  - first:
+      213: -1767071668904166554
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_39
+  - first:
+      213: 5237400762636970131
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_40
+  - first:
+      213: -2371038927982817312
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_41
+  - first:
+      213: 7017792013436926505
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_42
+  - first:
+      213: -2251158555858762093
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_43
+  - first:
+      213: 3147293266963696401
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_44
+  - first:
+      213: 2760468618519069501
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_45
+  - first:
+      213: -2915733877783489125
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_46
+  - first:
+      213: 5295615833085261751
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_47
+  - first:
+      213: -7194160689417772359
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_48
+  - first:
+      213: -1214949672990125535
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_49
+  - first:
+      213: -5894294157252430364
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_50
+  - first:
+      213: 7591067444695902491
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_51
+  - first:
+      213: 599642460327391939
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_52
+  - first:
+      213: 5082772347879178829
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_53
+  - first:
+      213: -2623860259515288996
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_54
+  - first:
+      213: -3783502250464329160
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_55
+  - first:
+      213: -3174799065891020718
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_56
+  - first:
+      213: 4849951220542448955
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_57
+  - first:
+      213: -4802568247949426038
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_58
+  - first:
+      213: -4677470859314018544
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_59
+  - first:
+      213: 2736573087337407700
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_60
+  - first:
+      213: -6354935938262346567
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_61
+  - first:
+      213: 6860347018347775391
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_62
+  - first:
+      213: -4003811477926117886
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_63
+  - first:
+      213: -3778959013570565984
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_64
+  - first:
+      213: 1967221090738972226
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_65
+  - first:
+      213: -1725738867672643528
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_66
+  - first:
+      213: -5210067218696431683
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_67
+  - first:
+      213: -8269076951231611230
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_68
+  - first:
+      213: -8059441386685604105
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_69
+  - first:
+      213: 8736066305114294192
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_70
+  - first:
+      213: -4222259509449972289
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_71
+  - first:
+      213: 3839779344034943969
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_72
+  - first:
+      213: 4732128436923647044
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_73
+  - first:
+      213: 3004354455387119435
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_74
+  - first:
+      213: 2220412423618968319
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_75
+  - first:
+      213: -1811366366073107775
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_76
+  - first:
+      213: 4457671615302518208
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_77
+  - first:
+      213: -6083646464422033113
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_78
+  - first:
+      213: 6100298910683111087
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_79
+  - first:
+      213: -4721751975772086577
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_80
+  - first:
+      213: -603092239505624989
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_81
+  - first:
+      213: -2194223199415745568
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_82
+  - first:
+      213: 5987248694243277445
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_83
+  - first:
+      213: -1306182000879519798
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_84
+  - first:
+      213: 3870012376672062306
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_85
+  - first:
+      213: 7079448680942319263
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_86
+  - first:
+      213: 3976345177388837901
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_87
+  - first:
+      213: -5774591422990901560
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_88
+  - first:
+      213: 4405113296844441483
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_89
+  - first:
+      213: 5614393531500849812
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_90
+  - first:
+      213: -2240533536028218703
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_91
+  - first:
+      213: -8041917502078232563
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_92
+  - first:
+      213: 336694160216709382
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_93
+  - first:
+      213: -5899347447516206227
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_94
+  - first:
+      213: 2665468617934398129
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_95
+  - first:
+      213: 6475626764986709809
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_96
+  - first:
+      213: -8488909544850346586
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_97
+  - first:
+      213: 2374881256408507113
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_98
+  - first:
+      213: -8234995205442125456
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_99
+  - first:
+      213: 2815313123113611817
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_100
+  - first:
+      213: 2012344680362424262
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_101
+  - first:
+      213: 4251393608573619354
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_102
+  - first:
+      213: 1444768286968870126
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_103
+  - first:
+      213: 8813586595664416829
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_104
+  - first:
+      213: 5802007951666024269
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_105
+  - first:
+      213: -4388105009445924122
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_106
+  - first:
+      213: -9200835697327879815
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_107
+  - first:
+      213: -7620309657282270006
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_108
+  - first:
+      213: 5258017135084034800
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_109
+  - first:
+      213: 7769866219204090359
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_110
+  - first:
+      213: -1690435631975789280
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_111
+  - first:
+      213: 5327241032507570184
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_112
+  - first:
+      213: 5729501676613431628
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_113
+  - first:
+      213: 5300095724162910415
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_114
+  - first:
+      213: -887337605846076586
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_115
+  - first:
+      213: 6371155562128284129
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_116
+  - first:
+      213: 4359767566184989130
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_117
+  - first:
+      213: -2304299777204791734
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_118
+  - first:
+      213: 7389219426229206302
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_119
+  - first:
+      213: 4096454181202927327
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_120
+  - first:
+      213: 263905247140174604
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_121
+  - first:
+      213: 573185620210436329
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_122
+  - first:
+      213: 7900890297940785020
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_123
+  - first:
+      213: 3673755296831374440
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_124
+  - first:
+      213: -6801473629899400145
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_125
+  - first:
+      213: -8327582055598766183
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_126
+  - first:
+      213: -1756246796668119431
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_127
+  - first:
+      213: 4293817985699499852
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_128
+  - first:
+      213: -5428384908475485559
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_129
+  - first:
+      213: 8289334931063255985
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_130
+  - first:
+      213: -705076265781971020
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_131
+  - first:
+      213: -5348564771117120581
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_132
+  - first:
+      213: -6189608409057447635
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_133
+  - first:
+      213: -2848133552069866547
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_134
+  - first:
+      213: 8483141287418762259
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_135
+  - first:
+      213: -8742371164937064953
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_136
+  - first:
+      213: -462101245751627039
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_137
+  - first:
+      213: -8824059114688905827
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_138
+  - first:
+      213: 8728190876360075444
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_139
+  - first:
+      213: 8417624098490649495
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_140
+  - first:
+      213: -3929909171615677163
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_141
+  - first:
+      213: 5639538181407611504
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_142
+  - first:
+      213: -8033974417247349862
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_143
+  - first:
+      213: 8169521912221705850
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_144
+  - first:
+      213: 510057129692859709
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_145
+  - first:
+      213: 8245646595622882672
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_146
+  - first:
+      213: 3692794518271367595
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_147
+  - first:
+      213: 4963543279620721698
+    second: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 668
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87295fa37c14e56a0800000000000000
+      internalID: -6458652491659242888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 668
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b61e0bc8f42ebe50800000000000000
+      internalID: 6826934736117438137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 668
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c2d089b9e45db80800000000000000
+      internalID: -8370697902220301261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 668
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65788a6358e5f7930800000000000000
+      internalID: 4143134108444821334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 604
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b5a368511484570800000000000000
+      internalID: 8451076261462825809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 604
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b5089e682416850800000000000000
+      internalID: 6368444495289146233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 604
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c2eb14ea06bd10800000000000000
+      internalID: 2140910647697917369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 604
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82767eed9f2ae9f50800000000000000
+      internalID: 6890123673993701160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 604
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc98bdfdc0611600800000000000000
+      internalID: 437237076672945372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 604
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40116fb70f40c4010800000000000000
+      internalID: 1174319033755242756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 604
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2673a4011483e42c0800000000000000
+      internalID: -4445553930070771870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 604
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14719daded4c18210800000000000000
+      internalID: 1333563426111821633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 604
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b5f0a923fb6cc0800000000000000
+      internalID: -3716609707344546405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 604
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0dd827662106a00800000000000000
+      internalID: 747617769361363120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 604
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b1644e52052e60800000000000000
+      internalID: 7936752522207802972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 604
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c065a56dc459b5ef0800000000000000
+      internalID: -118336807948888564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 604
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5389ed8d35e3e770800000000000000
+      internalID: 8639000562763400031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_17
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 604
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5189e38fa398030800000000000000
+      internalID: 3497391423506355679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 604
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e0a64a5a724350800000000000000
+      internalID: 5999492181761515682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 540
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799effef261d10a0800000000000000
+      internalID: -6909341858170758791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 540
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea1f12db46e283a0800000000000000
+      internalID: -6664511285232723226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 540
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c1fa7d03ae8e310800000000000000
+      internalID: 1434653976815410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 540
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c930489dcfe371f0800000000000000
+      internalID: -1048230621945513535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 540
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37491ae5f1fa71e0800000000000000
+      internalID: -2199179429520259266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 540
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff30287b914f3ba0800000000000000
+      internalID: -6107090433699987472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 540
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0f7caae0b2d4c0800000000000000
+      internalID: -4264151375203594561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 540
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28a3feba5d3bf20800000000000000
+      internalID: 3437325875043533559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 540
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb09c40988f59130800000000000000
+      internalID: 3573035146762849246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 540
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a48d5089883e5760800000000000000
+      internalID: 7448452996932666533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 540
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ea13c01c301570800000000000000
+      internalID: 8435308144755401898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 540
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd9368eda2ce3160800000000000000
+      internalID: 7007252122419043794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 540
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda7d59473773560800000000000000
+      internalID: 7293425066117148124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 540
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d294f9362d8720800000000000000
+      internalID: 2849976169553647883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 476
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ab1434044204fe0800000000000000
+      internalID: -1206924841710405035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 476
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463127569fc592ba0800000000000000
+      internalID: -6113252792960150684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 476
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958de705f8eda8120800000000000000
+      internalID: 2416988857149872217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 476
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e0b47075485a9e0800000000000000
+      internalID: -1610735782395703777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 476
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558dc1641e3c6a8b0800000000000000
+      internalID: -5141206552285489067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 476
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e40751062752ace0800000000000000
+      internalID: -1395457113788578591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 476
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7f42fda91a77e0800000000000000
+      internalID: -1767071668904166554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 476
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982653ae3cfea840800000000000000
+      internalID: 5237400762636970131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 479
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef06f448a0681fd0800000000000000
+      internalID: -2371038927982817312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 476
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3b7487a4346160800000000000000
+      internalID: 7017792013436926505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 476
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39605f8783742c0e0800000000000000
+      internalID: -2251158555858762093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_44
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 476
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b895d1d8e6dab20800000000000000
+      internalID: 3147293266963696401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 478
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33417c35972f4620800000000000000
+      internalID: 2760468618519069501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 476
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9594238c7b3987d0800000000000000
+      internalID: -2915733877783489125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73bf5fa8ecd7940800000000000000
+      internalID: 5295615833085261751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ac2228f4392c90800000000000000
+      internalID: -7194160689417772359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1225271a5b1a32fe0800000000000000
+      internalID: -1214949672990125535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 412
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5fe4b71b2433ea0800000000000000
+      internalID: -5894294157252430364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 412
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19a12b2f93e85960800000000000000
+      internalID: 7591067444695902491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23e0004ab525800800000000000000
+      internalID: 599642460327391939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 412
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42448d4582a98640800000000000000
+      internalID: 5082772347879178829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 412
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b35beefc269bd0800000000000000
+      internalID: -2623860259515288996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832ce22cfbc4e7bc0800000000000000
+      internalID: -3783502250464329160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_56
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 412
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e2540219d0f3d0800000000000000
+      internalID: -3174799065891020718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 412
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35a76e50fc7e4340800000000000000
+      internalID: 4849951220542448955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_58
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 412
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828763af99d95db0800000000000000
+      internalID: -4802568247949426038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_59
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 412
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017c8572909461fb0800000000000000
+      internalID: -4677470859314018544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_60
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 412
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e3a459b24af520800000000000000
+      internalID: 2736573087337407700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 348
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4528d1f6bbec7a0800000000000000
+      internalID: -6354935938262346567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 348
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f958788f349d43f50800000000000000
+      internalID: 6860347018347775391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 349
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef4968caa9f68c0800000000000000
+      internalID: -4003811477926117886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 348
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ad578cc07e8bc0800000000000000
+      internalID: -3778959013570565984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 348
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462724c829fc4b10800000000000000
+      internalID: 1967221090738972226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 348
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388949a4a1fc08e0800000000000000
+      internalID: -1725738867672643528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 350
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db711bdf77f12b7b0800000000000000
+      internalID: -5210067218696431683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_68
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 348
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae387503565e3d80800000000000000
+      internalID: -8269076951231611230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_69
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 348
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed58272cc172090800000000000000
+      internalID: -8059441386685604105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_70
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 348
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7c892d40ebc3970800000000000000
+      internalID: 8736066305114294192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_71
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 348
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb528bdb8558765c0800000000000000
+      internalID: -4222259509449972289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_72
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 348
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d51928f2a94530800000000000000
+      internalID: 3839779344034943969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_73
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 348
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444cb52ddb5eba140800000000000000
+      internalID: 4732128436923647044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 284
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f16bc957c91b920800000000000000
+      internalID: 3004354455387119435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_75
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 284
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa3ca4c55d70de10800000000000000
+      internalID: 2220412423618968319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 284
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca4f1813ebbcd6e0800000000000000
+      internalID: -1811366366073107775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_77
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 284
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c27367b4dcdd30800000000000000
+      internalID: 4457671615302518208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_78
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 284
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729401de5cb829ba0800000000000000
+      internalID: -6083646464422033113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 284
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae18fad98d98a450800000000000000
+      internalID: 6100298910683111087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_80
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 284
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce1b9e4897f87eb0800000000000000
+      internalID: -4721751975772086577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 284
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360f871bdc261a7f0800000000000000
+      internalID: -603092239505624989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 284
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e347e820ad8c81e0800000000000000
+      internalID: -2194223199415745568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_83
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 284
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aba4237faf61350800000000000000
+      internalID: 5987248694243277445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_84
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 284
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7319104628fdde0800000000000000
+      internalID: -1306182000879519798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_85
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 284
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b47eb90cb05b530800000000000000
+      internalID: 3870012376672062306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96bc2911114f3260800000000000000
+      internalID: 7079448680942319263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 220
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c699a0fd0de2730800000000000000
+      internalID: 3976345177388837901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1c9522b78cdfa0800000000000000
+      internalID: -5774591422990901560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8743c5443b122d30800000000000000
+      internalID: 4405113296844441483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aeb5aab255aed40800000000000000
+      internalID: 5614393531500849812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 220
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba20bdae9608e0e0800000000000000
+      internalID: -2240533536028218703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_92
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0851a7c3ae556090800000000000000
+      internalID: -8041917502078232563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 221
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095aa90e8d2ca400800000000000000
+      internalID: 336694160216709382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_94
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6038a0ce412ea0800000000000000
+      internalID: -5899347447516206227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_95
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26ee3f595adf420800000000000000
+      internalID: 2665468617934398129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 220
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1377b01cb3c0ed950800000000000000
+      internalID: 6475626764986709809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_97
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 220
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada5c0ceb5513a80800000000000000
+      internalID: -8488909544850346586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_98
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 220
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e266f78be545f020800000000000000
+      internalID: 2374881256408507113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_99
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 220
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071c394dd7b67bd80800000000000000
+      internalID: -8234995205442125456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 220
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922beaa8e50021720800000000000000
+      internalID: 2815313123113611817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 156
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c736ae23d84deb10800000000000000
+      internalID: 2012344680362424262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_102
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c856f46fbfffa30800000000000000
+      internalID: 4251393608573619354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4778f2a19dc0410800000000000000
+      internalID: 1444768286968870126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30d8b7ff46205a70800000000000000
+      internalID: 8813586595664416829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f8b0fdd7fd48050800000000000000
+      internalID: 5802007951666024269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_106
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 156
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21dda3eb15a13c0800000000000000
+      internalID: -4388105009445924122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c9007ea0105080800000000000000
+      internalID: -9200835697327879815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_108
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 156
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2637adb83f3690800000000000000
+      internalID: -7620309657282270006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_109
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 156
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fad997e9ba38f840800000000000000
+      internalID: 5258017135084034800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_110
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 156
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f997fbe82c14db60800000000000000
+      internalID: 7769866219204090359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_111
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 156
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8b60cfbd5a88e0800000000000000
+      internalID: -1690435631975789280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 156
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808bf7f7e792ee940800000000000000
+      internalID: 5327241032507570184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 156
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417c8e2b67438f40800000000000000
+      internalID: 5729501676613431628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_114
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 156
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc80c42eaf8bd8940800000000000000
+      internalID: 5300095724162910415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_115
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 156
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f2b7162b8fa3f0800000000000000
+      internalID: -887337605846076586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_116
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e919695a34ea6850800000000000000
+      internalID: 6371155562128284129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_117
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 92
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c9bd9081018c30800000000000000
+      internalID: 4359767566184989130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_118
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 92
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4652b3bf8b7500e0800000000000000
+      internalID: -2304299777204791734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_119
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 92
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dbecb1be7cb8660800000000000000
+      internalID: 7389219426229206302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_120
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 92
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde9345bf5789d830800000000000000
+      internalID: 4096454181202927327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_121
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 92
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd62e8c6499a300800000000000000
+      internalID: 263905247140174604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 91
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84103e84d54f700800000000000000
+      internalID: 573185620210436329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 91
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7737128dd995ad60800000000000000
+      internalID: 7900890297940785020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 91
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86408536afccbf230800000000000000
+      internalID: 3673755296831374440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_125
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 91
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd8a4f4cf4c91a0800000000000000
+      internalID: -6801473629899400145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 96
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974e1aed3c7e6c80800000000000000
+      internalID: -8327582055598766183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_127
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 96
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ddaae7de80a7e0800000000000000
+      internalID: -1756246796668119431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f4dc755b4b69b30800000000000000
+      internalID: 4293817985699499852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_129
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9823a32cfa08aa4b0800000000000000
+      internalID: -5428384908475485559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_130
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b333467332a90370800000000000000
+      internalID: 8289334931063255985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_131
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b1863fd01736f0800000000000000
+      internalID: -705076265781971020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_132
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34567bda416c5b0800000000000000
+      internalID: -5348564771117120581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d213c5722f71a1aa0800000000000000
+      internalID: -6189608409057447635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_134
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb010cdf956978d0800000000000000
+      internalID: -2848133552069866547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_135
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149b082e0c2ab570800000000000000
+      internalID: 8483141287418762259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_136
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 26
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eee4b9ebbdca680800000000000000
+      internalID: -8742371164937064953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_137
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e275b48d594699f0800000000000000
+      internalID: -462101245751627039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_138
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7befacf4aa8580800000000000000
+      internalID: -8824059114688905827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_139
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 26
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b86f3dab53c02970800000000000000
+      internalID: 8728190876360075444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_140
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 26
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b8d43e48861d470800000000000000
+      internalID: 8417624098490649495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_141
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 26
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154c421e682679c0800000000000000
+      internalID: -3929909171615677163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9d00b81aa34e40800000000000000
+      internalID: 5639538181407611504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_143
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 26
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93556555d6918090800000000000000
+      internalID: -8033974417247349862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_144
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 26
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76aeba25e8ff5170800000000000000
+      internalID: 8169521912221705850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_145
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 26
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8f7ec146141700800000000000000
+      internalID: 510057129692859709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_146
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc28334eb6e6270800000000000000
+      internalID: 8245646595622882672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_147
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba913129c017f3330800000000000000
+      internalID: 3692794518271367595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_148
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c0219905c02e440800000000000000
+      internalID: 4963543279620721698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_0: -6458652491659242888
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_1: 6826934736117438137
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_10: -4445553930070771870
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_100: 2815313123113611817
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_101: 2012344680362424262
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_102: 4251393608573619354
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_103: 1444768286968870126
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_104: 8813586595664416829
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_105: 5802007951666024269
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_106: -4388105009445924122
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_107: -9200835697327879815
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_108: -7620309657282270006
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_109: 5258017135084034800
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_11: 1333563426111821633
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_110: 7769866219204090359
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_111: -1690435631975789280
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_112: 5327241032507570184
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_113: 5729501676613431628
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_114: 5300095724162910415
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_115: -887337605846076586
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_116: 6371155562128284129
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_117: 4359767566184989130
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_118: -2304299777204791734
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_119: 7389219426229206302
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_12: -3716609707344546405
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_120: 4096454181202927327
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_121: 263905247140174604
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_122: 573185620210436329
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_123: 7900890297940785020
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_124: 3673755296831374440
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_125: -6801473629899400145
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_126: -8327582055598766183
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_127: -1756246796668119431
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_128: 4293817985699499852
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_129: -5428384908475485559
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_13: 747617769361363120
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_130: 8289334931063255985
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_131: -705076265781971020
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_132: -5348564771117120581
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_133: -6189608409057447635
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_134: -2848133552069866547
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_135: 8483141287418762259
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_136: -8742371164937064953
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_137: -462101245751627039
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_138: -8824059114688905827
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_139: 8728190876360075444
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_14: 7936752522207802972
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_140: 8417624098490649495
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_141: -3929909171615677163
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_142: 5639538181407611504
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_143: -8033974417247349862
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_144: 8169521912221705850
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_145: 510057129692859709
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_146: 8245646595622882672
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_147: 3692794518271367595
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_148: 4963543279620721698
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_15: -118336807948888564
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_16: 8639000562763400031
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_17: 3497391423506355679
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_18: 5999492181761515682
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_19: -6909341858170758791
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_2: -8370697902220301261
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_20: -6664511285232723226
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_21: 1434653976815410299
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_22: -1048230621945513535
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_23: -2199179429520259266
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_24: -6107090433699987472
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_25: -4264151375203594561
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_26: 3437325875043533559
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_27: 3573035146762849246
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_28: 7448452996932666533
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_29: 8435308144755401898
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_3: 4143134108444821334
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_30: 7007252122419043794
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_31: 7293425066117148124
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_32: 2849976169553647883
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_33: -1206924841710405035
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_34: -6113252792960150684
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_35: 2416988857149872217
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_36: -1610735782395703777
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_37: -5141206552285489067
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_38: -1395457113788578591
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_39: -1767071668904166554
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_4: 8451076261462825809
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_40: 5237400762636970131
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_41: -2371038927982817312
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_42: 7017792013436926505
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_43: -2251158555858762093
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_44: 3147293266963696401
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_45: 2760468618519069501
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_46: -2915733877783489125
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_47: 5295615833085261751
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_48: -7194160689417772359
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_49: -1214949672990125535
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_5: 6368444495289146233
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_50: -5894294157252430364
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_51: 7591067444695902491
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_52: 599642460327391939
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_53: 5082772347879178829
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_54: -2623860259515288996
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_55: -3783502250464329160
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_56: -3174799065891020718
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_57: 4849951220542448955
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_58: -4802568247949426038
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_59: -4677470859314018544
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_6: 2140910647697917369
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_60: 2736573087337407700
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_61: -6354935938262346567
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_62: 6860347018347775391
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_63: -4003811477926117886
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_64: -3778959013570565984
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_65: 1967221090738972226
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_66: -1725738867672643528
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_67: -5210067218696431683
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_68: -8269076951231611230
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_69: -8059441386685604105
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_7: 6890123673993701160
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_70: 8736066305114294192
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_71: -4222259509449972289
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_72: 3839779344034943969
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_73: 4732128436923647044
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_74: 3004354455387119435
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_75: 2220412423618968319
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_76: -1811366366073107775
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_77: 4457671615302518208
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_78: -6083646464422033113
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_79: 6100298910683111087
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_8: 437237076672945372
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_80: -4721751975772086577
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_81: -603092239505624989
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_82: -2194223199415745568
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_83: 5987248694243277445
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_84: -1306182000879519798
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_85: 3870012376672062306
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_86: 7079448680942319263
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_87: 3976345177388837901
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_88: -5774591422990901560
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_89: 4405113296844441483
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_9: 1174319033755242756
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_90: 5614393531500849812
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_91: -2240533536028218703
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_92: -8041917502078232563
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_93: 336694160216709382
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_94: -5899347447516206227
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_95: 2665468617934398129
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_96: 6475626764986709809
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_97: -8488909544850346586
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_98: 2374881256408507113
+      dawphra-a80c8941-0e06-44b6-9939-b2ae08212d7a_99: -8234995205442125456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
