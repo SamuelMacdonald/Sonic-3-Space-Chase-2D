@@ -21,7 +21,12 @@ namespace Sonic2D
         public float speedInc;
         public Rigidbody2D rb;
 
-      
+        //jump
+        public Vector2 boxSize;
+        public float castDistance;
+        public LayerMask groundLayer;
+        public bool jumping;
+        public float jumpFroce;
 
         public StateMachine sm;
 
@@ -48,7 +53,7 @@ namespace Sonic2D
             slowDown = new DeccelerationState(this, sm);
 
             // initialise the statemachine with the default state
-            sm.Init(movement);
+            sm.Init(idel);
         }
 
         // Update is called once per frame
@@ -62,32 +67,59 @@ namespace Sonic2D
             string s;
             s = string.Format(" state={0}\nLast state={1}", sm.CurrentState, sm.LastState);
 
-            v2 = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+            Debug.Log(sm.CurrentState);
+            Debug.Log(stick.Direction.x);
 
 
         }
 
+        public bool isGrounded()
+        {
+            if(Physics2D.BoxCast(transform.position, boxSize, 0, -transform.up, castDistance, groundLayer))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
+        public void JumpingTrue()
+        {
+            if (isGrounded())
+            {
+                jumping = true;
+                rb.AddForce(Vector2.up * jumpFroce);
+                Debug.Log("true");
+            }
+           
+        }
+
+        private void OnDrawGizmos()
+        {
+            Gizmos.DrawWireCube(transform.position-transform.up * castDistance, boxSize);
+        }
         void FixedUpdate()
         {
             sm.CurrentState.PhysicsUpdate();
-            v2 = new Vector2(Input.GetAxisRaw("Horizontal"), 0);
+            
         }
 
         public void CheckForMovement()
         {
-            if(true)
-            {
+            
+            if(stick.Direction.x >= 0.97f || stick.Direction.x <= -0.97f)
                 sm.ChangeState(movement);
-            }
+            
         }
 
         public void CheckForIdel()
         {
-            if (Input.GetKey("l"))
-            {
+           
+            if(stick.Direction.x == 0 && isGrounded())
                 sm.ChangeState(idel);
-            }
+            
         }
         
         public void CheckForSpinDash()
@@ -100,8 +132,9 @@ namespace Sonic2D
         
         public void CheckForJump()
         {
-            if (Input.GetKey("k"))
+            if (jumping == true && isGrounded())
             {
+                
                 sm.ChangeState(jump);
             }
         }

@@ -35,16 +35,17 @@ public class JumpState : State
             sonic.CheckForIdel();
             sonic.CheckForMovement();
             sonic.CheckForSpinDash();
-           
-            
+
+            Debug.Log("true");
 
         }
 
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
-         
 
+            
+            sonic.jumping = false;
 
 
         }
