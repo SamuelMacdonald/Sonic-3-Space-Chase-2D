@@ -35,7 +35,7 @@ namespace Sonic2D
         public IdelState idel;
         public SpinDashState spinDash; 
         public JumpState jump;
-        public DeccelerationState slowDown;
+      
 
         // Start is called before the first frame update
         void Start()
@@ -50,7 +50,7 @@ namespace Sonic2D
             idel = new IdelState(this, sm);
             spinDash = new SpinDashState(this, sm);
             jump = new JumpState(this, sm);
-            slowDown = new DeccelerationState(this, sm);
+            
 
             // initialise the statemachine with the default state
             sm.Init(idel);
@@ -103,7 +103,40 @@ namespace Sonic2D
         void FixedUpdate()
         {
             sm.CurrentState.PhysicsUpdate();
-            
+            //increase speed
+            if (acc < maxSp && acc >= 1000)
+            {
+                if (stick.Direction.x >= 0.97f || stick.Direction.x <= -0.97f)
+                {
+                    acc += 2000f * Time.fixedDeltaTime;
+                }
+                else
+                {
+                    acc = 1000f;
+                }
+            }
+
+            if (acc < 1000)
+            {
+                acc = 1000;
+            }
+            //right
+            if (v2.x == 1)
+            {
+                right = true;
+            }
+
+            //left
+            if (v2.x == -1)
+            {
+                left = true;
+            }
+            //idel
+            if (v2.x == 0 && acc == 1000)
+            {
+                left = false;
+                right = false;
+            }
         }
 
         public void CheckForMovement()
