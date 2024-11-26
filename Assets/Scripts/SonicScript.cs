@@ -97,6 +97,11 @@ namespace Sonic2D
 
         public void AButtonPress()
         {
+            
+           
+        }
+        public void JumpingAtive()
+        {
             if (isGrounded())
             {
                 jumping = true;
@@ -107,9 +112,8 @@ namespace Sonic2D
                 jumping = false;
                 isCharging = false;
             }
-           
-        }
 
+        }
         private void OnDrawGizmos()
         {
             Gizmos.DrawWireCube(transform.position-transform.up * castDistance, boxSize);
