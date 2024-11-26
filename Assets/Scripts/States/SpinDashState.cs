@@ -4,7 +4,7 @@ namespace Sonic2D
 {
 public class SpinDashState : State
 {
-        public SonicScript sb;
+        
         
 
         public SpinDashState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
@@ -40,7 +40,9 @@ public class SpinDashState : State
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
-            
+            sonic.jumping = false;
+
+            sonic.spinDashSpeed += 5000 * Time.deltaTime;
         }
     }
 }

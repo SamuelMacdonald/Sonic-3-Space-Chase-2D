@@ -10,6 +10,7 @@ namespace Sonic2D
     public class SonicScript : MonoBehaviour
     {
         //movement
+        public SpriteRenderer sp; 
         public Joystick stick;
         public float maxSp;
         public float minSp;
@@ -22,11 +23,19 @@ namespace Sonic2D
         public Rigidbody2D rb;
 
         //jump
+        [SerializeField]
         public Vector2 boxSize;
         public float castDistance;
         public LayerMask groundLayer;
         public bool jumping;
         public float jumpFroce;
+
+        //spinDash
+        [SerializeField]
+        public bool isCharging;
+        public bool spinDashCheck;
+        public float spinDashMaxSpeed;
+        public float spinDashSpeed;
 
         public StateMachine sm;
 
@@ -42,6 +51,7 @@ namespace Sonic2D
         {
             sm = gameObject.AddComponent<StateMachine>();
             rb = gameObject.GetComponent<Rigidbody2D>();
+            sp = gameObject.GetComponent<SpriteRenderer>();
             
 
 
@@ -68,7 +78,7 @@ namespace Sonic2D
             s = string.Format(" state={0}\nLast state={1}", sm.CurrentState, sm.LastState);
 
             Debug.Log(sm.CurrentState);
-            Debug.Log(stick.Direction.x);
+            //Debug.Log(stick.Direction);
 
 
         }
@@ -85,13 +95,17 @@ namespace Sonic2D
             }
         }
 
-        public void JumpingTrue()
+        public void AButtonPress()
         {
             if (isGrounded())
             {
                 jumping = true;
-                rb.AddForce(Vector2.up * jumpFroce);
-                Debug.Log("true");
+                isCharging = true;
+            }
+            else
+            {
+                jumping = false;
+                isCharging = false;
             }
            
         }
@@ -106,7 +120,7 @@ namespace Sonic2D
             //increase speed
             if (acc < maxSp && acc >= 1000)
             {
-                if (stick.Direction.x >= 0.97f || stick.Direction.x <= -0.97f)
+                if (stick.Direction.x >= 0.85 || stick.Direction.x <= -0.85)
                 {
                     acc += 2000f * Time.fixedDeltaTime;
                 }
@@ -120,16 +134,28 @@ namespace Sonic2D
             {
                 acc = 1000;
             }
+
+            //spinDash checking if you are preparing it
+            if(stick.Direction.y <= -0.9f)
+            {
+                spinDashCheck = true;
+            }
+            else
+            {
+                spinDashCheck = false;
+            }
             //right
-            if (v2.x == 1)
+            if (stick.Direction.x >= 0.85)
             {
                 right = true;
+                sp.flipX = false;
             }
 
             //left
-            if (v2.x == -1)
+            if (stick.Direction.x <= -0.85)
             {
                 left = true;
+                sp.flipX = true;
             }
             //idel
             if (v2.x == 0 && acc == 1000)
@@ -157,18 +183,20 @@ namespace Sonic2D
         
         public void CheckForSpinDash()
         {
-            if (Input.GetKey("m"))
+            if(spinDashCheck == true && isGrounded() && isCharging == true)
             {
+                
                 sm.ChangeState(spinDash);
             }
         }
         
         public void CheckForJump()
         {
-            if (jumping == true && isGrounded())
+            if (jumping == true && isGrounded() && spinDashCheck == false)
             {
-                
+                rb.AddForce(Vector2.up * jumpFroce);
                 sm.ChangeState(jump);
+                jumping = false;
             }
         }
 

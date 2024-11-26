@@ -591,7 +591,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1267268916}
         m_TargetAssemblyTypeName: Sonic2D.SonicScript, Assembly-CSharp
-        m_MethodName: JumpingTrue
+        m_MethodName: AButtonPress
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -809,6 +809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2e7b93a2e8786df40b5eee3e3421389a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sp: {fileID: 1267268917}
   stick: {fileID: 3984992748216798672}
   maxSp: 8000
   minSp: 1000
@@ -825,7 +826,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   jumping: 0
-  jumpFroce: 1000
+  jumpFroce: 1500
+  isCharging: 0
+  spinDashCheck: 0
+  spinDashMaxSpeed: 15000
+  spinDashSpeed: 0
   sm: {fileID: 0}
 --- !u!212 &1267268917
 SpriteRenderer:

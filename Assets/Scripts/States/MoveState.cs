@@ -46,7 +46,7 @@ namespace Sonic2D
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();   
-
+    
             //Movement
             if (sonic.isGrounded())
             {
