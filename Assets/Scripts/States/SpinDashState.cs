@@ -34,14 +34,14 @@ public class SpinDashState : State
             sonic.CheckForIdel();
             sonic.CheckForMovement();
             sonic.CheckForJump();
-            
+            sonic.CheckForFall();
         }
 
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
             sonic.jumping = false;
-
+            
             sonic.spinDashSpeed += 5000 * Time.deltaTime;
         }
     }

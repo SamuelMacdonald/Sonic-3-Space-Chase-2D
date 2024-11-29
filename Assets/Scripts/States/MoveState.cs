@@ -36,10 +36,10 @@ namespace Sonic2D
             sonic.CheckForIdel();
             sonic.CheckForJump();
             sonic.CheckForSpinDash();
+            sonic.CheckForFall();
 
-            
-            
-            // Debug.Log(sonic.stick.Direction.x);
+
+            Debug.Log(sonic.stick.Direction.x);
 
         }
 
@@ -50,7 +50,21 @@ namespace Sonic2D
             //Movement
             if (sonic.isGrounded())
             {
+                if(sonic.acc <= 4499)
+                {
+                    sonic.an.Play("startRun");
+                }
+                if(sonic.acc >= 4500 && sonic.acc <= 6000)
+                {
+                    sonic.an.Play("run");
+                }
+                
+                if(sonic.acc >= 6001)
+                {
+                    sonic.an.Play("sprint");
+                }
                 sonic.rb.AddForce(sonic.stick.Direction * sonic.acc * Time.deltaTime, 0);
+                
             }
 
 

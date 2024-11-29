@@ -1,14 +1,13 @@
 using UnityEngine;
 using Unity.VisualScripting.FullSerializer;
-
 namespace Sonic2D
 {
-public class IdelState : State
+public class FallingState : State
 {
-        public SonicScript sb;
+        
         
 
-        public IdelState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
+        public FallingState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
         {
         }
 
@@ -32,18 +31,21 @@ public class IdelState : State
         public override void LogicUpdate()
         {
             base.LogicUpdate();
-
-            sonic.CheckForJump();
+            sonic.CheckForIdel();
             sonic.CheckForMovement();
+            sonic.CheckForJump();
             sonic.CheckForSpinDash();
-            sonic.CheckForFall();
 
         }
 
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
-            sonic.an.Play("idel");
+            sonic.jumping = false;
+            sonic.an.Play("jump");
+            sonic.rb.AddForce(sonic.stick.Direction * sonic.acc * Time.deltaTime, 0);
+            sonic.rb.AddForce(Vector2.down * 50);
+
         }
     }
 }

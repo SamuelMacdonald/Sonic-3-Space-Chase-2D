@@ -37,13 +37,18 @@ namespace Sonic2D
         public float spinDashMaxSpeed;
         public float spinDashSpeed;
 
+
+        //Animations
+        public Animator an;     
+
         public StateMachine sm;
 
-
+        //States
         public MoveState movement;
         public IdelState idel;
         public SpinDashState spinDash; 
         public JumpState jump;
+        public FallingState fall;
       
 
         // Start is called before the first frame update
@@ -52,7 +57,7 @@ namespace Sonic2D
             sm = gameObject.AddComponent<StateMachine>();
             rb = gameObject.GetComponent<Rigidbody2D>();
             sp = gameObject.GetComponent<SpriteRenderer>();
-            
+            an = gameObject.GetComponent<Animator>();
 
 
             // add new states here
@@ -60,6 +65,7 @@ namespace Sonic2D
             idel = new IdelState(this, sm);
             spinDash = new SpinDashState(this, sm);
             jump = new JumpState(this, sm);
+            fall = new FallingState(this, sm);
             
 
             // initialise the statemachine with the default state
@@ -78,7 +84,7 @@ namespace Sonic2D
             s = string.Format(" state={0}\nLast state={1}", sm.CurrentState, sm.LastState);
 
             Debug.Log(sm.CurrentState);
-            //Debug.Log(stick.Direction);
+           // Debug.Log(rb.linearVelocity.x);
 
 
         }
@@ -122,17 +128,23 @@ namespace Sonic2D
         {
             sm.CurrentState.PhysicsUpdate();
             //increase speed
-            if (acc < maxSp && acc >= 1000)
+            if (acc <= 8000 && acc >= 1000)
             {
-                if (stick.Direction.x >= 0.85 || stick.Direction.x <= -0.85)
+                if (stick.Direction.x >= 0.7 || stick.Direction.x <= -0.7)
                 {
                     acc += 2000f * Time.fixedDeltaTime;
                 }
                 else
                 {
-                    acc = 1000f;
+                    acc = 1000;
+                }
+
+                if(acc > maxSp)
+                {
+                    acc = maxSp;
                 }
             }
+            
 
             if (acc < 1000)
             {
@@ -153,6 +165,7 @@ namespace Sonic2D
             {
                 right = true;
                 sp.flipX = false;
+                
             }
 
             //left
@@ -160,19 +173,25 @@ namespace Sonic2D
             {
                 left = true;
                 sp.flipX = true;
+                
             }
+            //if(rb.linearVelocity.x <=)
             //idel
             if (v2.x == 0 && acc == 1000)
             {
                 left = false;
                 right = false;
             }
+
+            
+
+            
         }
 
         public void CheckForMovement()
         {
             
-            if(stick.Direction.x >= 0.97f || stick.Direction.x <= -0.97f)
+            if(stick.Direction.x >= 0.7f || stick.Direction.x <= -0.7f)
                 sm.ChangeState(movement);
             
         }
@@ -200,8 +219,26 @@ namespace Sonic2D
             {
                 rb.AddForce(Vector2.up * jumpFroce);
                 sm.ChangeState(jump);
+                
                 jumping = false;
             }
+        }
+        public void CheckForFall()
+        {
+            if(isGrounded() == false)
+            {
+                sm.ChangeState(fall);
+            }
+        }
+
+        public void OnTriggerEnter2D(Collider2D collision)
+        {
+            if (collision.gameObject.CompareTag("Enemy"))
+            {
+                rb.AddForce(Vector2.up * jumpFroce);
+                Destroy(collision.gameObject);
+            }
+                
         }
 
         public override int GetHashCode()

@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: e3631ab47eea55a49b1760494d8c36a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2456867214862025828
+    second: Sonic Start Run_0
+  - first:
+      213: 6770729217620593115
+    second: Sonic Start Run_1
+  - first:
+      213: 7358793585905640362
+    second: Sonic Start Run_2
+  - first:
+      213: -2197682674271360894
+    second: Sonic Start Run_3
+  - first:
+      213: -6977238828557368735
+    second: Sonic Start Run_4
+  - first:
+      213: -3067962170269168972
+    second: Sonic Start Run_5
+  - first:
+      213: -7190418713753308488
+    second: Sonic Start Run_6
+  - first:
+      213: -6395539626324823529
+    second: Sonic Start Run_7
+  - first:
+      213: 1575304606185516248
+    second: Sonic Start Run_8
+  - first:
+      213: 8357412530302709508
+    second: Sonic Start Run_9
+  - first:
+      213: 7116843801160984507
+    second: Sonic Start Run_10
+  - first:
+      213: 7801787241390351392
+    second: Sonic Start Run_11
+  - first:
+      213: 2934231244921447317
+    second: Sonic Start Run_12
+  - first:
+      213: -7140114081121522308
+    second: Sonic Start Run_13
+  - first:
+      213: 72246250005312122
+    second: Sonic Start Run_14
+  - first:
+      213: 46297036794655567
+    second: Sonic Start Run_15
+  - first:
+      213: 2577669127050061083
+    second: Sonic Start Run_16
+  - first:
+      213: -1417428875543274453
+    second: Sonic Start Run_17
+  - first:
+      213: -7722760780767009595
+    second: Sonic Start Run_18
+  - first:
+      213: 497705022414845172
+    second: Sonic Start Run_19
+  - first:
+      213: 5818259764647789406
+    second: Sonic Start Run_20
+  - first:
+      213: -1748252491228421417
+    second: Sonic Start Run_21
+  - first:
+      213: -4641032216302955488
+    second: Sonic Start Run_22
+  - first:
+      213: 5771380238740959954
+    second: Sonic Start Run_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic Start Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 179
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464872207bb881220800000000000000
+      internalID: 2456867214862025828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1140
+        width: 202
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd942aeb95676fd50800000000000000
+      internalID: 6770729217620593115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1140
+        width: 202
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3245f17cfaf1660800000000000000
+      internalID: 7358793585905640362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1140
+        width: 244
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288660760434081e0800000000000000
+      internalID: -2197682674271360894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_4
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1140
+        width: 265
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16286ce904edb2f90800000000000000
+      internalID: -6977238828557368735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_5
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1140
+        width: 268
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba05c039a86c65d0800000000000000
+      internalID: -3067962170269168972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 221
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2b96cb640863c90800000000000000
+      internalID: -7190418713753308488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 801
+        width: 193
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71279f9489a7e37a0800000000000000
+      internalID: -6395539626324823529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_8
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 801
+        width: 192
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc69b8613b9cd510800000000000000
+      internalID: 1575304606185516248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 801
+        width: 193
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6716ba6e7bf370800000000000000
+      internalID: 8357412530302709508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 801
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb724220bbb14c260800000000000000
+      internalID: 7116843801160984507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_11
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 801
+        width: 280
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242f301924854c60800000000000000
+      internalID: 7801787241390351392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 181
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593256265cb78b820800000000000000
+      internalID: 2934231244921447317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 508
+        width: 229
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dacfab21839ec90800000000000000
+      internalID: -7140114081121522308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 526
+        width: 291
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72bbe3e49ba00100800000000000000
+      internalID: 72246250005312122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_15
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 508
+        width: 250
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f437c40e8ea74a000800000000000000
+      internalID: 46297036794655567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_16
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 508
+        width: 188
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156f4af968b5c320800000000000000
+      internalID: 2577669127050061083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_17
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 508
+        width: 232
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9cd292f7445ce0800000000000000
+      internalID: -1417428875543274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 231
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46011acfd33d490800000000000000
+      internalID: -7722760780767009595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 215
+        width: 234
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f6f7b41438e600800000000000000
+      internalID: 497705022414845172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_20
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 215
+        width: 235
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5387c2fd6c9eb050800000000000000
+      internalID: 5818259764647789406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 215
+        width: 214
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d263a23f95fcb7e0800000000000000
+      internalID: -1748252491228421417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_22
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 215
+        width: 227
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0245e1cd9cdb79fb0800000000000000
+      internalID: -4641032216302955488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic Start Run_23
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 215
+        width: 230
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23dd1cfbf081050800000000000000
+      internalID: 5771380238740959954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sonic Start Run_0: 2456867214862025828
+      Sonic Start Run_1: 6770729217620593115
+      Sonic Start Run_10: 7116843801160984507
+      Sonic Start Run_11: 7801787241390351392
+      Sonic Start Run_12: 2934231244921447317
+      Sonic Start Run_13: -7140114081121522308
+      Sonic Start Run_14: 72246250005312122
+      Sonic Start Run_15: 46297036794655567
+      Sonic Start Run_16: 2577669127050061083
+      Sonic Start Run_17: -1417428875543274453
+      Sonic Start Run_18: -7722760780767009595
+      Sonic Start Run_19: 497705022414845172
+      Sonic Start Run_2: 7358793585905640362
+      Sonic Start Run_20: 5818259764647789406
+      Sonic Start Run_21: -1748252491228421417
+      Sonic Start Run_22: -4641032216302955488
+      Sonic Start Run_23: 5771380238740959954
+      Sonic Start Run_3: -2197682674271360894
+      Sonic Start Run_4: -6977238828557368735
+      Sonic Start Run_5: -3067962170269168972
+      Sonic Start Run_6: -7190418713753308488
+      Sonic Start Run_7: -6395539626324823529
+      Sonic Start Run_8: 1575304606185516248
+      Sonic Start Run_9: 8357412530302709508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,8 @@ namespace Sonic2D
 public class JumpState : State
 {
         public SonicScript sb;
-        
+
+        public bool grounded;
 
         public JumpState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
         {
@@ -32,9 +33,16 @@ public class JumpState : State
         public override void LogicUpdate()
         {
             base.LogicUpdate();
-            sonic.CheckForIdel();
+            if (sonic.rb.linearVelocity.y > 2f && grounded)
+            {
+                sonic.CheckForIdel();
+            }
+
+            //Debug.Log("grounded=" + grounded + "vel=" + sonic.rb.linearVelocity.y);
+
             sonic.CheckForMovement();
             sonic.CheckForSpinDash();
+            sonic.CheckForFall();
 
             Debug.Log("true");
 
@@ -44,7 +52,8 @@ public class JumpState : State
         {
             base.PhysicsUpdate();
 
-            
+            sonic.an.Play("jump");
+            grounded = sonic.isGrounded();
             sonic.jumping = false;
 
 
