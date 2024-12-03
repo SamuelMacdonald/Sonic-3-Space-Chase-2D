@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Eggrobo_0: 5682143552851666329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

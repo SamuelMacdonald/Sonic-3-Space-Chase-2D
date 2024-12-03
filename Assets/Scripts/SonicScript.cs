@@ -1,9 +1,10 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 using UnityEngine.VFX;
 using UnityEngine.Rendering;
+
 
 namespace Sonic2D
 {
@@ -37,6 +38,8 @@ namespace Sonic2D
         public float spinDashMaxSpeed;
         public float spinDashSpeed;
 
+        //death
+        public bool hit;
 
         //Animations
         public Animator an;     
@@ -49,6 +52,7 @@ namespace Sonic2D
         public SpinDashState spinDash; 
         public JumpState jump;
         public FallingState fall;
+        public DeathState dead;
       
 
         // Start is called before the first frame update
@@ -66,6 +70,7 @@ namespace Sonic2D
             spinDash = new SpinDashState(this, sm);
             jump = new JumpState(this, sm);
             fall = new FallingState(this, sm);
+            dead = new DeathState(this, sm);
             
 
             // initialise the statemachine with the default state
@@ -229,6 +234,15 @@ namespace Sonic2D
             {
                 sm.ChangeState(fall);
             }
+
+        }
+
+        public void CheckForDead()
+        {
+            if(hit == true)
+            {
+                sm.ChangeState(dead);
+            }
         }
 
         public void OnTriggerEnter2D(Collider2D collision)
@@ -237,6 +251,11 @@ namespace Sonic2D
             {
                 rb.AddForce(Vector2.up * jumpFroce);
                 Destroy(collision.gameObject);
+            }
+
+            if (collision.gameObject.CompareTag("Laser"))
+            {
+                SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().name);
             }
                 
         }

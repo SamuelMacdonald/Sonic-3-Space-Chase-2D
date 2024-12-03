@@ -1,13 +1,15 @@
 using UnityEngine;
 using Unity.VisualScripting.FullSerializer;
+
 namespace Sonic2D
 {
-public class FallingState : State
+public class DeathState : State
 {
+        public SonicScript sb;
         
-        
+        public bool grounded;
 
-        public FallingState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
+        public DeathState(SonicScript sonic, StateMachine sm) : base(sonic, sm)
         {
         }
 
@@ -30,21 +32,18 @@ public class FallingState : State
 
         public override void LogicUpdate()
         {
-            base.LogicUpdate();
-            sonic.CheckForIdel();
-            sonic.CheckForMovement();
-            sonic.CheckForJump();
-            sonic.CheckForSpinDash();
-            sonic.CheckForDead();
+
+            Debug.Log("dead");
         }
 
         public override void PhysicsUpdate()
         {
             base.PhysicsUpdate();
-            sonic.jumping = false;
-            sonic.an.Play("jump");
-            sonic.rb.AddForce(sonic.stick.Direction * sonic.acc * Time.deltaTime, 0);
-            sonic.rb.AddForce(Vector2.down * 50);
+
+
+            sonic.an.Play("death");
+            
+
 
         }
     }

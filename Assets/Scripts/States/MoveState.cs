@@ -37,7 +37,7 @@ namespace Sonic2D
             sonic.CheckForJump();
             sonic.CheckForSpinDash();
             sonic.CheckForFall();
-
+            sonic.CheckForDead();
 
             Debug.Log(sonic.stick.Direction.x);
 

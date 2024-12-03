@@ -43,6 +43,7 @@ public class JumpState : State
             sonic.CheckForMovement();
             sonic.CheckForSpinDash();
             sonic.CheckForFall();
+            sonic.CheckForDead();
 
             Debug.Log("true");
 

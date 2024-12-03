@@ -37,7 +37,7 @@ public class IdelState : State
             sonic.CheckForMovement();
             sonic.CheckForSpinDash();
             sonic.CheckForFall();
-
+            sonic.CheckForDead();
         }
 
         public override void PhysicsUpdate()
