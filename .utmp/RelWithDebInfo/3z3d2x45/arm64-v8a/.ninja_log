@@ -1,0 +1,12 @@
+# ninja log v5
+94	726	7550947334639395	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	753097263ad6a13b
+727	1235	7550947339202716	D:/Year 2/Samuel/UnityProject/Sonic 3 Space Chase 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3z3d2x45/obj/arm64-v8a/libswappywrapper.so	4970cc18d437832e
+32	1655	7550947344449743	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f6c0ef977c5bccb2
+61	1704	7550947344988308	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5d57f8af6043b207
+21	1729	7550947345157853	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fa965778f3ac8909
+71	1736	7550947345287502	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e0e65788f428d06e
+82	1817	7550947346218334	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1656e607567db37e
+13	1881	7550947346865045	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5cca1cd381659961
+47	2082	7550947348870075	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cbb9d3a07e7083fb
+0	2237	7550947350448901	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b3dfa829d6817677
+2237	2379	7550947351919730	D:/Year 2/Samuel/UnityProject/Sonic 3 Space Chase 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3z3d2x45/obj/arm64-v8a/libgame.so	e1751aa4b2990e61
